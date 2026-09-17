@@ -17,4 +17,4 @@ It then checks the result against the PyTorch output. On a portrait with added n
 
 ## Credits
 
-NAFNet: Liangyu Chen, Xiaojie Chu, Xiangyu Zhang and Jian Sun, *Simple Baselines for Image Restoration*, ECCV 2022. © 2022 megvii-model, MIT licence ([LICENSE-NAFNet](LICENSE-NAFNet)).
+NAFNet: Liangyu Chen, Xiaojie Chu, Xiangyu Zhang and Jian Sun, *Simple Baselines for Image Restoration*, ECCV 2022. © 2022 megvii-model, MIT licence; the BasicSR code it builds on is Apache-2.0. Both texts are in [LICENSE-NAFNet](LICENSE-NAFNet).
